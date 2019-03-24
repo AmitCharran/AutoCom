@@ -1,0 +1,25 @@
+.name{
+    position: relative;
+    font-size: 45px;
+    color: blue;
+
+}
+.searching{
+    margin-top: 10px;
+    position: relative;
+    width: 200px;
+    height: 15px;
+    border-radius: 10%;
+}
+.searchButton{
+    position: relative;
+    font-size: 20px;
+    margin-top: 10px;
+    width: 100px;
+    border-radius: 0%;
+
+}
+.all{
+    text-align: center;
+    margin-top: 17%;
+}
